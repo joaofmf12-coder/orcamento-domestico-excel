@@ -85,7 +85,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## ✨ Autor
 
-Desenvolvido por [João F. M. Fonseca]
+Desenvolvido por João F. M. Fonseca
 
 ---
 
